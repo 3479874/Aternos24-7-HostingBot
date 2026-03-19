@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "survivalworld-MbCT.aternos.me",
-    "port": 36339,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
